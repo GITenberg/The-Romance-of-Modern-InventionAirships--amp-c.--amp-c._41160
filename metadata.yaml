@@ -11,6 +11,8 @@ creator:
     gutenberg_agent_id: '5620'
     url: http://www.gutenberg.org/2009/agents/5620
 description: Digital book consists of a large number of page images.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/41160#The-Romance-of-Modern-InventionAirships--amp-c.--amp-c.
 gutenberg_issued: '2012-10-24'
 gutenberg_type: Text
 identifiers:
