@@ -1,0 +1,35 @@
+_repo: The-Romance-of-Modern-InventionAirships--amp-c.--amp-c._41160
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 41160-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Williams, Archibald
+    birthdate: 1871
+    deathdate: 1934
+    gutenberg_agent_id: '5620'
+    url: http://www.gutenberg.org/2009/agents/5620
+description: Digital book consists of a large number of page images.
+gutenberg_issued: '2012-10-24'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '41160'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'T'
+- !lcsh 'Inventions'
+tableOfContents: Wireless telegraphy -- High-speed telegraphy -- The telephone; wireless
+  telephony -- The phonograph; the rotographophone; the telephonograph -- The telautograph
+  -- Modern artillery; rifles; machine guns; heavy ordnance; explosives; in the gun
+  factory -- Dirigible torpedoes -- Submarine boats -- Animated pictures -- The great
+  Paris telescope -- Photographing the invisible; photography in the dark -- Solar
+  motors -- Liquid air -- Horseless carriages -- High-speed railways -- Sea expresses
+  -- Mechanical flight -- Type-setting by machinery -- Photography in colours -- Lighting.
+title: "The Romance of Modern Invention\r\nContaining Interesting Descriptions in\
+  \ Non-technical Language of Wireless Telegraphy, Liquid Air, Modern Artillery, Submarines,\
+  \ Dirigible Torpedoes, Solar Motors, Airships, &c. &c."
+url: http://www.gutenberg.org/ebooks/41160
