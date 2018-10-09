@@ -24,6 +24,7 @@ rights_url: http://creativecommons.org/about/pdm
 subjects:
 - !lcc 'T'
 - !lcsh 'Inventions'
+- GITenberg
 tableOfContents: Wireless telegraphy -- High-speed telegraphy -- The telephone; wireless
   telephony -- The phonograph; the rotographophone; the telephonograph -- The telautograph
   -- Modern artillery; rifles; machine guns; heavy ordnance; explosives; in the gun
